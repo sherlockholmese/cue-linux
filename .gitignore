@@ -1,0 +1,8 @@
+/.cache/
+/.build/
+/dist/
+/src/
+/pkg/
+*.pkg.tar.*
+__pycache__/
+.amp

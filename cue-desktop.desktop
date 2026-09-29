@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Cue
+Comment=Cue desktop client
+Exec=cue %U
+Icon=cue
+Terminal=false
+Categories=Office;
+MimeType=x-scheme-handler/cue;
+StartupWMClass=cue
